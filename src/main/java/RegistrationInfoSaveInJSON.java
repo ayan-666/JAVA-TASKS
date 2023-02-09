@@ -16,7 +16,7 @@ import java.util.Scanner;
 public class RegistrationInfoSaveInJSON {
     public static void main(String[] args) throws IOException, ParseException {
         char ch = 'y';
-        String fileName = "./src/main/resources/Student.json";
+        String fileName = "./src/main/resources/UserInfo.json";
         do {
             JSONParser jsonParser = new JSONParser();
             Object obj = jsonParser.parse(new FileReader(fileName));
