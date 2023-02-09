@@ -30,5 +30,9 @@
 - Create a program which will take input from users for registration and save the info to a json file. The system will require following user info:
   Full Name, email, password, address, mobile no.  
   
-  
+## How to run
+- Clone this project
+- Open it any IDE
+- Go to the src-main-java
+- Run the class 
   
